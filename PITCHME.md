@@ -16,7 +16,7 @@ Study Conflicts and Cooperation between various entities though Mathematical Mod
 
 #### Let's Play!!
 
-Let's play a game to understand a bit on Game Theory- Guess 2/3rd of average.
+Let's play a small game to understand a bit on Game Theory- Guess 2/3rd of average.
 
 The aim of the game is to guess the 2/3rd of the average of your guesses.
 
@@ -49,7 +49,8 @@ $$ J(\theta_0,\theta_1) = \sum_i^m  $$
 #### Iterated Prisoner's Dilemma
 
 1. Started out as Robert Axelrod as a student in 1962.
-2. 
+2. [Axelrod1980](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.665.7955&rep=rep1&type=pdf): 15 strategies
+3. [Axelrod1980b](http://journals.sagepub.com/doi/abs/10.1177/002200278002400301): 65 strategies
 
 ---
 
