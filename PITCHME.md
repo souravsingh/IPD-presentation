@@ -45,7 +45,7 @@ The offer is:
 
 ---
 
-$$\begin{pmatrix}3,3&0,5\\ 5,0&1,1\end{pmatrix}$$
+$$\begin{pmatrix}3,3&0,5\\5,0&1,1\end{pmatrix}$$
 
 ---
 #### More on Prisoner's Dilemma
