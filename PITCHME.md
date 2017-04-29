@@ -36,9 +36,9 @@ Numbers are restricted between 0 to 100, both inclusive.
 - Two members of a criminal organization A and B are captured and put in incarceration. Both the menbers cannot communicate with each other.
 - The Prosecutor doesn't have evidence and decides to give each person a bargain- betray your friend or cooperate with your friend by going silent.
 - The offer is:
-1) If A and B betray each other, both get imprisonment for two years.
-2) If A betrays and B is silent(or vice versa),  A is free and B will serve 3 years in prison.
-3) If both remain silent, Both serve one year in prison.
+  1) If A and B betray each other, both get imprisonment for two years.
+  2) If A betrays and B is silent(or vice versa),  A is free and B will serve 3 years in prison.
+  3) If both remain silent, Both serve one year in prison.
 
 ---
 
