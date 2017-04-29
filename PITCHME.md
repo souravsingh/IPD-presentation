@@ -44,6 +44,13 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
+          	          	  Player B 	          	
+	        |----------	|----------	|----------	|
+          	|          	| Silent   	| Betrayal 	|
+  Player A 	| Silent   	| (1,1)    	| (0,5)    	|
+          	| Betrayal 	| (5,0)    	| (3,3)    	|
+
+---
 #### More on Prisoner's Dilemma
 <img src="assets/valentine_dilemma.png" height="450"/>
 
