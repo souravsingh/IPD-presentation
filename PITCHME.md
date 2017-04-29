@@ -45,7 +45,7 @@ The offer is:
 
 ---
 #### More on Prisoner's Dilemma
-![IMAGE](assets/valentine_dilemma.png)
+![IMAGE](http://www.ucs.mun.ca/~alatus/phil1200/dilbert960809-9473.gif)
 
 Link-[https://xkcd.com/1016/](https://xkcd.com/1016/)
 ---
