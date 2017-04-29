@@ -45,9 +45,9 @@ The offer is:
 
 ---
 #### More on Prisoner's Dilemma
-![IMAGE](http://www.ucs.mun.ca/~alatus/phil1200/dilbert960809-9473.gif)
+<img src="https://xkcd.com/1016/valentine_dilemma.png" alt="Drawing" style="height: 488px;"/>
 
-Taken from Dilbert's August 8th 1996 comic.
+Taken from [https://xkcd.com/1016/](ttps://xkcd.com/1016/)
 ---
 #### Iterated Prisoner's Dilemma
 
