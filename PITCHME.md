@@ -21,3 +21,4 @@ The aim of the game is to guess the 2/3rd of the average of your guesses.
 
 Numbers are restricted between 0 to 100, both inclusive.
 
+---
