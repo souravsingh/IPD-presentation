@@ -85,7 +85,7 @@ class TitForTat(Player):
 #### Demo time!
 
 ---
-http://axelrod-tournament.readthedocs.io/en/latest/_images/strategies_std_reproduce.svg
+[!IMAGE](http://axelrod-tournament.readthedocs.io/en/latest/_images/strategies_std_reproduce.svg)
 ---
 
 The Axelrod library
