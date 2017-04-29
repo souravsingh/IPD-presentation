@@ -44,23 +44,12 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
-$$\begin{pmatrix}
-                        3,3&0,5\\
-                        5,0&1,1
-\end{pmatrix}$$
+$$ J(\theta_0,\theta_1) = \sum_i^m  $$
 ---
+#### Iterated Prisoner's Dilemma
 
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Block and GIST Slides
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
+1. Started out as Robert Axelrod as a student in 1962.
+2. 
 
 ---
 
