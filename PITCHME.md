@@ -82,3 +82,15 @@ class TitForTat(Player):
         return 'D' if opponent.history[-1:] == ['D'] else 'C'
 ```
 ---
+
+#### Demo time!
+
+---
+
+The Axelrod library
+
+Greet us at [Gitter!!](https://gitter.im/Axelrod-Python/Axelrod)
+
+Docs- [axelrod.readthedocs.io](axelrod.readthedocs.io)
+
+---
