@@ -54,5 +54,31 @@ $$ J(\theta_0,\theta_1) = \sum_i^m  $$
 
 ---
 
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+### IPD in Python
+
+![IMAGE](http://vknight.org/Talks/2017-02-13-The-Axelrod-library/static/axelrod-tweet.png)
+
+... Now present as [Axelrod-Python/Axelrod](https://github.com/Axelrod-Python/Axelrod).
+
+---
+
+### Basic Strategy for IPD
+
+```python
+class TitForTat(Player):
+    """A player starts by cooperating and then mimics previous move by opponent."""
+
+    name = 'Tit For Tat'
+    classifier = {
+        'memory_depth': 1,  # Four-Vector = (1.,0.,1.,0.)
+        'stochastic': False,
+        'inspects_source': False,
+        'manipulates_source': False,
+        'manipulates_state': False
+    }
+
+    @staticmethod
+    def strategy(opponent):
+        return 'D' if opponent.history[-1:] == ['D'] else 'C'
+```
+---
