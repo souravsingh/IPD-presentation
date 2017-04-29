@@ -46,7 +46,7 @@ The offer is:
 ---
 #### Iterated Prisoner's Dilemma
 
-1. Started out as Robert Axelrod as a student in 1962.
+1. Started out by Robert Axelrod as a student in 1962.
 2. [Axelrod1980](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.665.7955&rep=rep1&type=pdf): 15 strategies
 3. [Axelrod1980b](http://journals.sagepub.com/doi/abs/10.1177/002200278002400301): 65 strategies
 
@@ -83,6 +83,8 @@ class TitForTat(Player):
 
 #### Demo time!
 
+---
+http://axelrod-tournament.readthedocs.io/en/latest/_images/strategies_std_reproduce.svg
 ---
 
 The Axelrod library
