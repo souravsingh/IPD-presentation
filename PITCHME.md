@@ -45,7 +45,7 @@ The offer is:
 
 ---
 #### More on Prisoner's Dilemma
-<img src="https://xkcd.com/1016/valentine_dilemma.png" alt="Comic" style="height: 488px;"/>
+<img src="https://xkcd.com/1016/" alt="comic" width="480" height="480">
 
 Taken from [https://xkcd.com/1016/](https://xkcd.com/1016/)
 ---
