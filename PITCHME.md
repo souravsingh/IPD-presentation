@@ -11,6 +11,8 @@
 
 Study Conflicts and Cooperation between various entities though Mathematical Models.
 
+---
+
 #### Let's Play!!
 
 Let's play a game to understand a bit on Game Theory- Guess 2/3rd of average.
