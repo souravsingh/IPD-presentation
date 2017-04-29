@@ -44,11 +44,14 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
-$$\begin{pmatrix} 
-3,3 & 0,5 
-\\ 
-5,0 & 1,1 
-\end{pmatrix}$$
+<section>
+                        $$\begin{pmatrix}
+                        3,3&0,5\\
+                        5,0&1,1
+                        \end{pmatrix}$$
+<br>
+<br>
+</section>
 ---
 #### More on Prisoner's Dilemma
 <img src="assets/valentine_dilemma.png" height="450"/>
