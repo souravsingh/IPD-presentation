@@ -33,8 +33,8 @@ Numbers are restricted between 0 to 100, both inclusive.
 
 #### Scenario
 
-- Two members of a criminal organization A and B are captured and put in incarceration. Both the menbers cannot communicate with each other.
-- The Prosecutor doesn't have evidence and decides to give each person a bargain- betray your friend or cooperate with your friend by going silent.
+- Two members of a criminal organization A and B are captured and put in incarceration. Both the members are isolated and  cannot communicate with each other.
+- The Prosecutor doesn't have enough evidence for prosecution and decides to give each person a bargain- betray your friend or cooperate with your friend by going silent.
 
 ---
 
