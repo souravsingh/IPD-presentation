@@ -47,7 +47,7 @@ The offer is:
 			   B		
 	    |          	| Silent 	| Betrayal 	|
 	    |----------	|--------	|----------	|
-	   A| Silent   	| (1,1)  	| (0,5)    	|
+	  A | Silent   	| (1,1)  	| (0,5)    	|
 	    | Betrayal 	| (5,0)  	| (3,3)    	|
 ---
 #### More on Prisoner's Dilemma
