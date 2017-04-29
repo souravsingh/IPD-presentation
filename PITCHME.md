@@ -28,17 +28,17 @@ Numbers are restricted between 0 to 100, both inclusive.
 
 - Started out as an idea at RAND Corporation.
 - Formalized later by  Albert W. Tucker as a game with prison sentence rewards.
+
 ---
 
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+#### Scenario
 
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+- Two members of a criminal organization A and B are captured and put in incarceration. Both the menbers cannot communicate with each other.
+- The Prosecutor doesn't have evidence and decides to give each person a bargain- betray your friend or cooperate with your friend by going silent.
+- The offer is:
+1) If A and B betray each other, both get imprisonment for two years.
+2) If A betrays and B is silent(or vice versa),  A is free and B will serve 3 years in prison.
+3) If both remain silent, Both serve one year in prison.
 
 ---
 
