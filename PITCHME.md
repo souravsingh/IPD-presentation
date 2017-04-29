@@ -45,9 +45,9 @@ The offer is:
 
 ---
 $$\begin{pmatrix}
-3,3&0,5\\
-5,0&1,1
-\end{pmatrix}$$
+                        3,3&0,5\\
+                        5,0&1,1
+                        \end{pmatrix}$$
 ---
 #### More on Prisoner's Dilemma
 <img src="assets/valentine_dilemma.png" height="450"/>
