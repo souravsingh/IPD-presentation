@@ -9,5 +9,13 @@
 
 #### What is Game Theory?
 
-Study Conflicts and Cooperation between various entities though <span style="color: #666666">Mathematical Models.</span>
+Study Conflicts and Cooperation between various entities though Mathematical Models.
+
+#### Let's Play!!
+
+Let's play a game to understand a bit on Game Theory- Guess 2/3rd of average.
+
+The aim of the game is to guess the 2/3rd of the average of your guesses.
+
+Numbers are restricted between 0 to 100, both inclusive.
 
