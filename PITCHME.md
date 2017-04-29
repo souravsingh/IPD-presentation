@@ -61,8 +61,6 @@ Link-[https://xkcd.com/1016/](https://xkcd.com/1016/)
 
 ![IMAGE](http://vknight.org/Talks/2017-02-13-The-Axelrod-library/static/axelrod-tweet.png)
 
-... Now present as [Axelrod-Python/Axelrod](https://github.com/Axelrod-Python/Axelrod).
-
 ---
 
 ### Basic Strategy for IPD
