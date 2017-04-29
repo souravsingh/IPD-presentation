@@ -45,7 +45,7 @@ The offer is:
 
 ---
 #### More on Prisoner's Dilemma
-[!COMIC](http://assets.amuniversal.com/abd01710a03a012f2fe600163e41dd5b)
+[!COMIC](http://www.mikeshor.com/courses/gametheory/docs/topic2/dilbert.gif)
 Taken from Dilbert's August 8th 1996 comic.
 ---
 #### Iterated Prisoner's Dilemma
