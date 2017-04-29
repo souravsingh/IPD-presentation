@@ -44,18 +44,10 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
-
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
+$$\begin{pmatrix}
+                        3,3&0,5\\
+                        5,0&1,1
+                        \end{pmatrix}$$
 ---
 
 <span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
