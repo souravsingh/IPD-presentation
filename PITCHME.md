@@ -26,12 +26,8 @@ Numbers are restricted between 0 to 100, both inclusive.
 
 #### Prisoner's Dilemma
 
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab or Bitbucket.
-
+- Started out as an idea at RAND Corporation.
+- Formalized later by  Albert W. Tucker as a game with prison sentence rewards.
 ---
 
 <span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
