@@ -45,7 +45,8 @@ The offer is:
 
 ---
 #### More on Prisoner's Dilemma
-[!COMIC](https://imgs.xkcd.com/comics/valentine_dilemma.png)
+[!IMAGE](https://imgs.xkcd.com/comics/valentine_dilemma.png)
+
 Link-[https://xkcd.com/1016/](https://xkcd.com/1016/)
 ---
 #### Iterated Prisoner's Dilemma
