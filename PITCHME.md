@@ -44,8 +44,6 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
-$$ J(\theta_0,\theta_1) = \sum_i^m  $$
----
 #### Iterated Prisoner's Dilemma
 
 1. Started out as Robert Axelrod as a student in 1962.
