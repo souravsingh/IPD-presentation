@@ -59,7 +59,7 @@ Taken from Dilbert's August 8th 1996 comic.
 
 ### IPD in Python
 
-![IMAGE](http://vknight.org/Talks/2017-02-13-The-Axelrod-library/static/axelrod-tweet.png)
+![IMAGE](http://vknight.org/Talks/2017-02-13-The-Axelrod-library/static/axelrod-tweet.png =530x502)
 
 ---
 
