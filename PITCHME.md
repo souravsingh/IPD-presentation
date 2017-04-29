@@ -46,7 +46,6 @@ The offer is:
 ---
 #### More on Prisoner's Dilemma
 ![IMAGE](http://www.ucs.mun.ca/~alatus/phil1200/dilbert960809-9473.gif)
-
 Taken from Dilbert's August 8th 1996 comic.
 ---
 #### Iterated Prisoner's Dilemma
