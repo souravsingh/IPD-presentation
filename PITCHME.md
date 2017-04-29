@@ -42,6 +42,13 @@ Numbers are restricted between 0 to 100, both inclusive.
 
 ---
 
+The offer is:
+- If A and B betray each other, both get imprisonment for two years.
+- If A betrays and B is silent(or vice versa),  A is free and B will serve 3 years in prison.
+- If both remain silent, Both serve one year in prison.
+
+---
+
 <span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
 
 ![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
