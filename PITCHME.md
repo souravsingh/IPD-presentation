@@ -9,5 +9,5 @@
 
 #### What is Game Theory?
 
-Study Conflicts and Cooperation between various entities though <span style="color: #666666">Keynote.</span>
+Study Conflicts and Cooperation between various entities though <span style="color: #666666">Mathematical Models.</span>
 
