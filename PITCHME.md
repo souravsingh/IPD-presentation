@@ -47,7 +47,7 @@ The offer is:
 #### More on Prisoner's Dilemma
 <img src="https://xkcd.com/1016/valentine_dilemma.png" alt="Drawing" style="height: 488px;"/>
 
-Taken from [https://xkcd.com/1016/](ttps://xkcd.com/1016/)
+Taken from [https://xkcd.com/1016/](https://xkcd.com/1016/)
 ---
 #### Iterated Prisoner's Dilemma
 
@@ -96,7 +96,7 @@ Docs- [axelrod.readthedocs.io](axelrod.readthedocs.io)
 
 ---
 
-Thanks to Axelrod-Python community!!
+Thanks to Axelrod-Python community, especially to Dr. Vincent Knight for the help!!
 
 ---
 
