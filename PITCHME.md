@@ -44,6 +44,11 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
+### Payoff Matrix
+
+![IMAGE](assets/payoff_matrix.png)
+
+---
 #### More on Prisoner's Dilemma
 <img src="assets/valentine_dilemma.png" height="450"/>
 
