@@ -94,3 +94,11 @@ Greet us at [Gitter!!](https://gitter.im/Axelrod-Python/Axelrod)
 Docs- [axelrod.readthedocs.io](axelrod.readthedocs.io)
 
 ---
+
+Thanks to Axelrod-Python community!!
+
+---
+
+Thank you!
+
+---
