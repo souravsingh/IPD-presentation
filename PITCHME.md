@@ -7,3 +7,7 @@
 
 ---
 
+#### What is Game Theory?
+
+Study Conflicts and Cooperation between various entities
+
