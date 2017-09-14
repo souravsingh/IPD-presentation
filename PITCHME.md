@@ -45,7 +45,7 @@ The offer is:
 - If both remain silent, Both serve one year in prison.
 
 ---
-### Payoff Matrix
+### Payoff Matrix(Outcome of game playing between two players A and B)
 
 ![IMAGE](assets/payoff_matrix.png)
 
